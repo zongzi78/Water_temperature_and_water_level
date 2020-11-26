@@ -1,0 +1,4 @@
+".\Objects\main.obj",
+".\Objects\temp.obj" 
+TO ".\Objects\water" 
+PRINT(".\Listings\water.m51") RAMSIZE(256) 
